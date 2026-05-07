@@ -1,0 +1,20 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# Virtual Environment
+pls/
+env/
+venv/
+.venv/
+
+# Database (Don't push your local data to GitHub!)
+db.sqlite3
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Media and Static
+/static/
+/media/
